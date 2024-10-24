@@ -2,6 +2,6 @@
   "name": "SONIC coin",
   "symbol": "SONIC",
   "decimals": "9",
-  "image": "",
+  "image": "https://raw.githubusercontent.com/vityooook/MetadataSynic/main/image.png",
   "description": "SONIC coin best meme token, develops its own crypto wallet"
 }
